@@ -551,7 +551,7 @@ Prose
 							<xs:documentation>Amount budgeted for the account for this fiscal year.</xs:documentation>
 						</xs:annotation>
 					</xs:element>
-					<xs:element name="AsOfDate" type="xs:date">
+					<xs:element name="Date" type="xs:date">
 						<xs:annotation>
 							<xs:documentation>The date of the reported budget element.</xs:documentation>
 						</xs:annotation>
